@@ -4,14 +4,14 @@
 hi(name)
 
 --- nopbai
-00 fork tu bainopmau tren replit tu trang web duoiday 
-   https://replit.com/@NamG1/toya03hi
+00 fork tu bainopmau
+   https://github.com/namgivu/toyahi
 
 01 lam bai vao tep s00_bailam.py, chay Run de co ketqua tatca la 1
-02a tao github repo, mo kiemtra tep s00_bailam.py, va lay diachi/url aka githubbailamourl
 
-02b dan diachi githubbailamourl tu trang web duoiday
-    https://forms.gle/s46X7pPDY7p79NQr5
+02a mo github.com cua ban va kiemtra tep s00_bailam.py, va lay diachi/url aka githubbailamurl tro den bailam nay
+02b dan diachi githubbailamurl tu trang web duoiday
+   https://forms.gle/s46X7pPDY7p79NQr5
 
 --- debai / problem
 Khi chay voi input           | Ketqua output
