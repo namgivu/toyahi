@@ -7,7 +7,8 @@ hi(name)
 00 fork tu bainopmau
    https://github.com/namgivu/toyahi
 
-01 lam bai vao tep s00_bailam.py, chay Run de co ketqua tatca la 1
+01a lam bai vao tep s00_bailam.py, chay Run de co ketqua tatca la 1
+01b git commit va git push bailam
 
 02a mo github.com cua ban va kiemtra tep s00_bailam.py, va lay diachi/url aka githubbailamurl tro den bailam nay
 02b dan diachi githubbailamurl tu trang web duoiday
