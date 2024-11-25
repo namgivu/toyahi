@@ -12,7 +12,7 @@ hi(name)
 
 02a mo github.com cua ban va kiemtra tep s00_bailam.py, va lay diachi/url aka githubbailamurl tro den bailam nay
 02b dan diachi githubbailamurl tu trang web duoiday
-   https://forms.gle/s46X7pPDY7p79NQr5
+   https://forms.gle/nojFByE4isAghjS47
 
 --- debai / problem
 Khi chay voi input           | Ketqua output
